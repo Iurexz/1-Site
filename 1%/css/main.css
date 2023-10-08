@@ -42,3 +42,8 @@ position: relative;
     border-bottom: 3px solid rgb(78, 77, 77);
 }
 
+.menu ul li{
+    margin-left: 15px;
+    display: inline-block;
+    list-style: none;
+}
